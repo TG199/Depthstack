@@ -1047,7 +1047,7 @@ function Pricing() {
         "All future releases",
       ],
       cta: "Get Instant Access",
-      url: "YOUR_GUMROAD_PRO_URL",
+      url: "GUMROAD_PRO_URL",
     },
   ];
 
