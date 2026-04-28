@@ -70,7 +70,7 @@ That gap is what keeps developers stuck.
 
 Depthstack teaches backend like this:
 
-```mermaid
+```
 flowchart LR
 A[Foundation] --> B[Architecture]
 B --> C[Production Build]
