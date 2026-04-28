@@ -107,21 +107,29 @@ After
 + Design with clarity
 + Build scalable backends
 + Debug with confidence
+```
 
-🧑‍💻 Who This Is For
+## 🧑‍💻 Who This Is For
+
 Backend devs stuck at intermediate
 Engineers preparing for system design interviews
 Builders who want to ship real systems
 Developers transitioning to senior roles
 
-💰 Pricing
-Tier	Price	Best For
-Starter	$19	Foundation
-Standard ⭐	$39	Full system
-Pro	$69	Advanced + mentorship
+## 💰 Pricing
 
-<p align="center"> <a href="https://kelebiri.gumroad.com/l/rfficw"> <img src="https://img.shields.io/badge/Get%20Instant%20Access-Depthstack-00C6F8?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
-🧠 Philosophy
+Tier Price Best For
+
+- Starter $19 Foundation
+- Standard ⭐ $39 Full system
+- Pro $69 Advanced + a booking call
+
+<p align="center"> 
+    <a href="https://kelebiri.gumroad.com/l/rfficw"> <img src="https://img.shields.io/badge/Get%20Instant%20Access-Depthstack-00C6F8?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a> 
+</p>
+
+## 🧠 Philosophy
 
 “Companies don’t pay for code.
 They pay for decisions.”
@@ -131,21 +139,28 @@ Depthstack trains you to:
 Make better architectural decisions
 Understand trade-offs deeply
 Think like a senior engineer
-🛠 Example Thinking Shift
+
+### 🛠 Example Thinking Shift:
+
 ❌ Before
 // "Let me just use Redis here"
+
 ✅ After
+
 - What is the access pattern?
 - What consistency model is required?
 - What happens on failure?
 - What’s the trade-off vs DB?
-🚀 Getting Started
+
+## 🚀 Getting Started
+
 Get Depthstack
 Start with the Core Guide
 Move through the system
 Apply to real-world projects
 
-📌 Final Thought
+## 📌 Final Thought
+
 If you keep learning tools…
 You’ll stay stuck.
 If you learn systems…
@@ -153,9 +168,9 @@ You’ll level up permanently.
 
 <p align="center"> <b>Stop learning. Start building systems.</b><br/><br/> <a href="https://kelebiri.gumroad.com/l/rfficw"> <img src="https://img.shields.io/badge/Get%20Depthstack%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
-⭐ Support
+## ⭐ Support
+
 If this resonates with you:
 Star the repo ⭐
 Share with other devs
 Build something real
-```
