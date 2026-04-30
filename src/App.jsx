@@ -352,7 +352,7 @@ function Navbar() {
       </svg>
       <span style={{ fontFamily: "'Syne',sans-serif", fontWeight: 800, fontSize: 16,
         color: "#fff", letterSpacing: "-0.03em" }}>
-        depth<span style={{ color: C.cyan }}>stack</span>
+        <span style={{ color: C.cyan }}>Depthstack</span>
       </span>
     </div>
   );
@@ -1190,7 +1190,7 @@ function Footer() {
         </defs>
       </svg>
       <span style={{ fontFamily: "'Syne',sans-serif", fontWeight: 800, fontSize: 14, color: "rgba(255,255,255,0.5)", letterSpacing: "-0.02em" }}>
-        depth<span style={{ color: "rgba(0,198,248,0.5)" }}>stack</span>
+        <span style={{ color: "rgba(0,198,248,0.5)" }}>Depthstack</span>
       </span>
     </div>
   );
