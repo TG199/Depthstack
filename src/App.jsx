@@ -1240,7 +1240,7 @@ function Footer() {
           marginTop: 24, flexWrap: "wrap", gap: 12,
         }}>
           <div style={{ fontFamily: "'DM Mono',monospace", fontSize: 11, color: "rgba(255,255,255,0.18)", letterSpacing: "0.04em" }}>
-            © 2025 DEPTHSTACK · ALL RIGHTS RESERVED
+            © 2026 DEPTHSTACK · ALL RIGHTS RESERVED
           </div>
           <div style={{ fontFamily: "'DM Mono',monospace", fontSize: 11, color: "rgba(255,255,255,0.18)" }}>
             trydepthstack.com
