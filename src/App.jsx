@@ -1178,7 +1178,7 @@ function FinalCTA() {
 function Footer() {
   const Logo = () => (
     <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-      <svg width="20" height="20" viewBox="0 0 28 28" fill="none">
+      {/* <svg width="20" height="20" viewBox="0 0 28 28" fill="none">
         <rect width="28" height="28" rx="7" fill="url(#foot-g)"/>
         <rect x="6" y="8"    width="16" height="2.5" rx="1.25" fill="white" fillOpacity="0.9"/>
         <rect x="6" y="12.75" width="11" height="2.5" rx="1.25" fill="white" fillOpacity="0.6"/>
@@ -1188,7 +1188,7 @@ function Footer() {
             <stop stopColor="#00C6F8"/><stop offset="1" stopColor="#6D28D9"/>
           </linearGradient>
         </defs>
-      </svg>
+      </svg> */}
       <span style={{ fontFamily: "'Syne',sans-serif", fontWeight: 800, fontSize: 14, color: "rgba(255,255,255,0.5)", letterSpacing: "-0.02em" }}>
         <span style={{ color: "rgba(0,198,248,0.5)" }}>Depthstack</span>
       </span>
